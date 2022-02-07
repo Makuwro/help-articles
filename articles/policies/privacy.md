@@ -1,12 +1,29 @@
 # Privacy Policy
-Thanks for taking the time to read our privacy policy! When writing this, we wanted to be as clear as possible on the data we collect and how we use it; however, if you still have questions or concerns about our privacy practices, you can email us at [privacy@makuwro.com](mailto:privacy@makuwro.com).
+> Effective on February 7, 2022. Version 1.
+
+Thanks for taking the time to read our privacy policy! When writing this, we wanted to be as clear as possible on the data we collect and how we use it; however, if you still have questions or concerns about our privacy practices, you can email us at [privacy@makuwro.com](mailto:privacy@makuwro.com). 
+
+# Definitions
+* "Makuwro" refers to Makuwro, the service.
+
+* "We" and "us" refer to Makuwro, LLC, the company.
+
+* "Users" refer to everyone who uses Makuwro.
+
+* "Members" refer to registered users of Makuwro.
+
+* "Followers" refer to members who follow you on Makuwro.
+
+* "Friends" refer to members who you follow and follow you back on Makuwro.
+
+* "Submissions" refer to content that you upload, such as art, literature, characters, blogs, and terms.
 
 # Children under 13
 Makuwro is expressly not for children under the age of 13. 
 
-If you're under 13, please don't use Makuwro. 
+If you're under 13, please don't use Makuwro. If you created an account, we will ban it until you turn 13 *and* until your parents email us. However, if you are still banned for this reason when you turn 18, send us an email and we'll to unban you.
 
-If you're an adult and believe that your child gave us information, please email [privacy@makuwro.com](mailto:privacy@makuwro.com) with the username of your child. You can find their username in the URL of your child's profile.
+If you're an adult and believe that we have information about your child, please email [privacy@makuwro.com](mailto:privacy@makuwro.com) with the username of your child. You can find their username in the URL of your child's profile.
 
 # Data you give us
 ## Your display name
@@ -22,9 +39,9 @@ If you're an adult and believe that your child gave us information, please email
 * To enforce restrictions, such as bans and blocks.
 
 ### Who we share it to
-If your account is public, we will share your display name to users when they view your content or search for you.
+* If your account is public, **users**, we will share your display name to users when they view your content or search for you.
 
-If your account is private, we will only share it to your friends.
+* If your account is private, **your friends** will only see your display name.
 
 ### How long we store it for
 We keep your current display name until you change it or delete your account.
@@ -42,9 +59,9 @@ We keep your current display name until you change it or delete your account.
 * To enforce restrictions, such as bans and blocks.
 
 ### Who we share it to
-If your account is public, we will share your username to users when they view your content or search for you. 
+* **Users** will share your username to users when they view your submissions or search for you. If your account is private, users will still be able to know that your username is taken, but they will not be able to search it.
 
-If your account is private, users will still be able to know that your username is taken; however, if they are not your friend, they will not be able to see your display name.
+* **Your friends** can still search for you via your username.
 
 ### How long we store it for
 We keep your current username until you change it or delete your account.
@@ -84,7 +101,7 @@ We store the current salted hash until you change your password, or delete your 
 * To personalize your profile.
 
 ### Who we share it to
-At the moment, we share your profile picture to all users when they view your content, regardless of your account's privacy status. This will change in the future.
+At the moment, we share your profile picture to **users** when they view your content, regardless of your account's privacy status. This will change in the future.
 
 ### How long we store it for
 We keep your current profile picture until you change it, remove it, or delete your account.
@@ -95,20 +112,53 @@ We keep your current profile picture until you change it, remove it, or delete y
 
 * To feature your content in the library and on the home page, if you give us permission to do so.
 
+* To monitor potential abuse.
+
+
 ### Who we share them to
-If your account is public, we share them to all users who request for it by default; however, you may change your privacy settings on a submission-level. 
+* If your account is public, we share them to **users** who request for it by default; however, you may change your privacy settings on a submission-level. 
 
-If your account is private, we only share them to users who you tell us to share them to.
+* If your account is private, we only share them to **your followers** and other **specific members** who you tell us to share them to.
 
-# Information we automatically receive and store
-## Your IP addresses when signing up
+### How long we store it for
+We store your submissions for as long as you want us to, and long enough for us to ensure you didn't violate our policies. When you request for us to delete your submission, it will be inaccessible to everyone who does not work for Makuwro, LLC. Then, our server will automatically check if there are any reports attached to the submission. If we find reports, the submission's content will not be deleted until all reports are resolved. Once there aren't anymore reports, the submission will be completely deleted from our servers. 
+
+## Submissions that you like and members that you follow
+### Why we use them
+* To provide you with a history of the submissions you like.
+
+* To recommend submissions to you and other users.
+
+* To recommend users to you and other users.
+
+* To enforce restrictions, such as bans and blocks.
+
+* To monitor potential abuse.
+
+### Who we share them to
+* By default, we share members you follow and submissions you like to **members**. You're able to change this in your privacy settings.
+
+### How long we store it for
+We store your likes until you unlike the submission in question. We also store users you follow until you unfollow them. However, if you delete your account, we will delete these lists.
+
+# Data we automatically receive and store
+## Your IP addresses when signing up and signing in
 ### Why we use it
 * To enforce restrictions, such as bans and blocks.
 
-* To monitor abuse.
+* To monitor potential abuse.
 
 ### Who we share it to
 We don't share your IP addresses without your explicit permission.
 
 ### How long we store it for
 We keep your IP addresses for the lifetime of your account. You may delete your account if you want to remove your IP from our database.
+
+# Cookies we use
+We store a single cookie on your browser to authenticate you. It's called "session", and it's a long, jumbled string that tells us that you're you. We are not responsible if you decide to share this with other people, or use this in another client.
+
+# Acquisitions and mergers
+In the **extremely unlikely** event that Makuwro, LLC is acquired by another company, your data might be transferred to the new owner(s). We will give you a notice via your email if this happens.
+
+# Changes to this policy
+As Makuwro grows, we might need to change this policy to reflect the needs of the service. When this happens, we will let you know on the website and via email at least 30 days before the effective date.
