@@ -1,4 +1,4 @@
-# Privacy Policy
+# Privacy policy
 > Effective on February 7, 2022. Version 1.
 
 Thanks for taking the time to read our privacy policy! When writing this, we wanted to be as clear as possible on the data we collect and how we use it; however, if you still have questions or concerns about our privacy practices, you can email us at [privacy@makuwro.com](mailto:privacy@makuwro.com). 
