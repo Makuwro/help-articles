@@ -16,7 +16,7 @@ Thanks for taking the time to read our privacy policy! When writing this, we wan
 
 * "Friends" refer to members who you follow and follow you back on Makuwro.
 
-* "Submissions" refer to content that you upload, such as art, literature, characters, blogs, and terms.
+* "Submissions" refer to content that you upload, such as art, literature, characters, blogs, comments, and terms.
 
 # Children under 13
 Makuwro is expressly not for children under the age of 13. 
@@ -108,7 +108,7 @@ We keep your current profile picture until you change it, remove it, or delete y
 
 ## Image and text submissions
 ### Why we use them
-* To provide a repository for you to store your characters, art, literature, blogs, terms, and other content.
+* To provide a repository for you to store your submissions.
 
 * To feature your content in the library and on the home page, if you give us permission to do so.
 
